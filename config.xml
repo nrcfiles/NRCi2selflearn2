@@ -7,6 +7,9 @@
   <author href="http://www.intactmedia.net" email="khader@intactmedia.net">
         IntactMedia Team
     </author>
+  <gap:plugin name="de.appplant.cordova.plugin.local-notification" />
+or to use an specific version:
+<gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
   <content src="index.html"/>
   <access origin="*"/>
   <access origin="tel:*" launch-external="yes"/>
