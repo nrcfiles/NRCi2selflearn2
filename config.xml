@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="net.intactmedia.lms" version="3.4.2">
-  <name>NRC_Cust1</name>
+  <name>NRC i2selfLearn</name>
   <description>
-        NRC Cust1
+        NRC i2selfLearn
     </description>
   <author href="http://www.intactmedia.net" email="khader@intactmedia.net">
         IntactMedia Team
